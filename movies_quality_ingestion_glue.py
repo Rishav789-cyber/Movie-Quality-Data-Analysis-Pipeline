@@ -55,7 +55,7 @@ EvaluateDataQuality_node1712355758004_ruleset = """
     # Example rules: Completeness "colA" between 0.4 and 0.8, ColumnCount > 10
     Rules = [
             IsComplete "imdb_rating",
-        ColumnValues "imdb_rating" between 8.0 and 10.3
+        ColumnValues "imdb_rating" between 8.0 and 9.3
     ]
 """
 
