@@ -1,4 +1,4 @@
 Rules = [
             IsComplete "imdb_rating",
-        ColumnValues "imdb_rating" between 8.0 and 10.3
+        ColumnValues "imdb_rating" between 8.0 and 9.3
     ]
